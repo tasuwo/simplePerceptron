@@ -34,12 +34,12 @@ simplePerceptron('sampleData02.csv')
 単純パーセプトロンとはなんなのか？という部分からはじまり，作成にあたっては以下のサイトを参考にしました．
 ありがとうございました．
 
->[単純パーセプトロンをPythonで組んでみる](http://tjo.hatenablog.com/entry/2013/05/01/190247)
->[ニューラルネットワーク入門](http://www-ailab.elcom.nitech.ac.jp/lecture/neuro/menu.html)
->[Perceptron - 物理のかぎしっぽ](http://hooktail.org/computer/index.php?Perceptron)
->[ニューラルネットワーク - 静岡理工科大学](https://www.sist.ac.jp/~suganuma/kougi/other_lecture/SE/net/net.htm)
->[ニューラルネットワーク](http://www.sist.ac.jp/~kanakubo/research/neuro.html)
->[第3回 単純パーセプトロン](https://github.com/levelfour/machine-learning-2014/wiki/第3回---単純パーセプトロン)
+>[単純パーセプトロンをPythonで組んでみる](http://tjo.hatenablog.com/entry/2013/05/01/190247)  
+>[ニューラルネットワーク入門](http://www-ailab.elcom.nitech.ac.jp/lecture/neuro/menu.html)  
+>[Perceptron - 物理のかぎしっぽ](http://hooktail.org/computer/index.php?Perceptron)  
+>[ニューラルネットワーク - 静岡理工科大学](https://www.sist.ac.jp/~suganuma/kougi/other_lecture/SE/net/net.htm)  
+>[ニューラルネットワーク](http://www.sist.ac.jp/~kanakubo/research/neuro.html)  
+>[第3回 単純パーセプトロン](https://github.com/levelfour/machine-learning-2014/wiki/第3回---単純パーセプトロン)  
 
 #License
 
